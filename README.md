@@ -1,4 +1,4 @@
-# Manual Testing - HowMuch Electron App
+#Testing - HowMuch Electron App
 
 
 ---
