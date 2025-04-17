@@ -1,0 +1,9 @@
+| Test Case ID     | Module             | Test Case Description                                         | Expected Result                                                  | Status | Notes                                     |
+|------------------|--------------------|----------------------------------------------------------------|------------------------------------------------------------------|--------|-------------------------------------------|
+| ISR_TC_001       | Item Sales Report  | Print report                                                   | User should be able to print the sales report                    | Pass/ failed  | Not tested in most early builds           |
+| ISR_TC_002       | Item Sales Report  | Download report as PDF                                         | Report should be downloadable in PDF format                      | Pass   | Stable across all tested builds           |
+| ISR_TC_003       | Item Sales Report  | Export report as CSV                                           | Sales data should export to an Excel/CSV file                    | Pass   | Confirmed functional in all versions      |
+| ISR_TC_004       | Item Sales Report  | Print A4 size                                                  | Report should support A4 size printing                           | Pass/Untested  | Untested in many builds, working later    |
+| ISR_TC_005       | Item Sales Report  | Share report                                                   | Report file should be sharable through available share options   | Pass   | Some builds not tested                    |
+| ISR_TC_006       | Item Sales Report  | Enable Arabic language                                         | UI and labels should properly translate to Arabic                | Pass/ Untested  | Arabic failed in early builds             |
+
