@@ -80,7 +80,6 @@ The bug reports are created with industry-standard format:
 
 ## 📁 Files Included
 
-- `Structured_HowMuch_Test_Cases.xlsx` – Excel version of all test cases
 - `Structured_HowMuch_Test_Cases.md` – GitHub-friendly Markdown version
 - `test-plan-howmuch.md` – Complete testing strategy for the app
 - `sample-bugs.md` – Collection of notable bugs discovered
