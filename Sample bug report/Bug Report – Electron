@@ -1,51 +1,71 @@
 # 🐞 Bug Report – Electron
 
-## Title
-[Short descriptive title of the issue]
+| Section              | Description |
+|----------------------|-------------|
+| **Title**            | [Short descriptive title of the issue] |
+| **Module**           | Electron Desktop App |
 
-## Module
-Electron Desktop App
+### 🧪 Steps to Reproduce
 
-## Steps to Reproduce
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
-...
+| Step No. | Action |
+|----------|--------|
+| 1        | [Step 1] |
+| 2        | [Step 2] |
+| 3        | [Step 3] |
+| ...      | ...     |
 
-## Expected Behavior
-[What should happen]
+### ✅ Expected Behavior
 
-## Actual Behavior
-[What actually happens]
+| Description |
+|-------------|
+| [What should happen] |
 
-## Severity
-- [ ] Low
-- [ ] Medium
-- [ ] High
-- [ ] Critical
+### ❌ Actual Behavior
 
-## Attachments
-- [Screenshots, logs, or screen recordings if available]
+| Description |
+|-------------|
+| [What actually happens] |
+
+### 🚦 Severity
+
+| Level     | Select |
+|-----------|--------|
+| Low       | [ ]    |
+| Medium    | [ ]    |
+| High      | [ ]    |
+| Critical  | [ ]    |
+
+### 📎 Attachments
+
+| Type        | Description |
+|-------------|-------------|
+| Screenshot  | [If available] |
+| Log         | [If available] |
+| Video/GIF   | [If available] |
 
 ---
 
 ### 🛠️ General Types of Bugs (Example Only)
-- UI glitches (misaligned text, broken layout)
-- Function not triggering (e.g., button click not responding)
-- Data mismatch or missing from views
-- Crashes or freezes during key workflows
-- Export issues (CSV, PDF, etc.)
-- Localization errors (Arabic or English content)
+
+| Bug Type |
+|----------|
+| UI glitches (misaligned text, broken layout) |
+| Function not triggering (e.g., button click not responding) |
+| Data mismatch or missing from views |
+| Crashes or freezes during key workflows |
+| Export issues (CSV, PDF, etc.) |
+| Localization errors (Arabic or English content) |
 
 📌 _Note: These are example bug types and may vary by module or release._
 
 ---
 
-**Redmine Ticket Types:**  
-- Feature  
-- Enhancement  
-- Defect  
-- Support  
-- Estimate  
+### 🏷️ Redmine Ticket Types
 
-_Currently using: Feature, Enhancement, and Defect tickets only._
+| Type        | Used Currently? |
+|-------------|------------------|
+| Feature     | ✅ Yes |
+| Enhancement | ✅ Yes |
+| Defect      | ✅ Yes |
+| Support     | ❌ No  |
+| Estimate    | ❌ No  |
