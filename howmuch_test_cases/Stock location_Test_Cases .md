@@ -1,0 +1,6 @@
+| Test Case ID     | Module               | Test Case Description                                           | Expected Result                                                  | Status | Priority | Notes |
+|:------------------|:----------------------|:------------------------------------------------------------------|:------------------------------------------------------------------|:--------|:----------|:-------|
+| TC-STOCKLOC-001 | Stock Location       | Shows selected stock location                                    | Current selected stock location is displayed                      | Pass   | High     |        |
+| TC-STOCKLOC-002 | Stock Location       | Shows available stock locations and allows changing              | User can view all stock locations and change selection            | Pass   | High     |        |
+| TC-STOCKLOC-003 | Stock Location       | User is able to change language to Arabic                        | Interface and labels are updated to Arabic                        | Pass   | Medium   |        |
+| TC-STOCKLOC-004 | Stock Location       | User can save changes                                            | Clicking 'Save' confirms and persists the selection               | Pass   | High     |        |
