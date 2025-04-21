@@ -47,16 +47,16 @@
 
 ## 🛠️ General Types of Bugs (Example Only)
 
-| **Bug Type**                                             |
-|----------------------------------------------------------|
-| UI glitches (misaligned text, broken layout)             |
-| Function not triggering (e.g., button click not working) |
-| Data mismatch or missing from views                      |
-| Crashes or freezes during key workflows                  |
-| Export issues (CSV, PDF, etc.)                           |
-| Localization errors (Arabic or English content)          |
+| **Bug Type**                                             | **Typical Severity** |
+|----------------------------------------------------------|-----------------------|
+| UI glitches (misaligned text, broken layout)             | Low / Medium          |
+| Function not triggering (e.g., button click not working) | High                  |
+| Data mismatch or missing from views                      | High / Critical       |
+| Crashes or freezes during key workflows                  | Critical              |
+| Export issues (CSV, PDF, etc.)                           | Medium / High         |
+| Localization errors (Arabic or English content)          | Low / Medium          |
 
-📌 _Note: These are example bug types and may vary by module or release._
+_Note: These are example bug types and may vary by module or release._
 
 ---
 
