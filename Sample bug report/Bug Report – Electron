@@ -1,71 +1,71 @@
 # 🐞 Bug Report – Electron
 
-| Section              | Description |
-|----------------------|-------------|
-| **Title**            | [Short descriptive title of the issue] |
-| **Module**           | Electron Desktop App |
+| **Section**            | **Description** |
+|------------------------|-----------------|
+| **Title**              | [Short descriptive title of the issue] |
+| **Module**             | Electron Desktop App |
 
-### 🧪 Steps to Reproduce
+## 🧪 Steps to Reproduce
 
-| Step No. | Action |
-|----------|--------|
-| 1        | [Step 1] |
-| 2        | [Step 2] |
-| 3        | [Step 3] |
-| ...      | ...     |
+| **Step No.** | **Action**         |
+|--------------|--------------------|
+| 1            | [Step 1]           |
+| 2            | [Step 2]           |
+| 3            | [Step 3]           |
+| ...          | ...                |
 
-### ✅ Expected Behavior
+## ✅ Expected Behavior
 
-| Description |
-|-------------|
-| [What should happen] |
+| **Description**        |
+|------------------------|
+| [What should happen]   |
 
-### ❌ Actual Behavior
+## ❌ Actual Behavior
 
-| Description |
-|-------------|
+| **Description**         |
+|-------------------------|
 | [What actually happens] |
 
-### 🚦 Severity
+## 🚦 Severity
 
-| Level     | Select |
-|-----------|--------|
-| Low       | [ ]    |
-| Medium    | [ ]    |
-| High      | [ ]    |
-| Critical  | [ ]    |
+| **Level**   | **Select** |
+|-------------|------------|
+| Low         | [ ]        |
+| Medium      | [ ]        |
+| High        | [ ]        |
+| Critical    | [ ]        |
 
-### 📎 Attachments
+## 📎 Attachments
 
-| Type        | Description |
-|-------------|-------------|
-| Screenshot  | [If available] |
-| Log         | [If available] |
-| Video/GIF   | [If available] |
+| **Type**      | **Description**      |
+|---------------|----------------------|
+| Screenshot    | [If available]       |
+| Log           | [If available]       |
+| Video/GIF     | [If available]       |
 
 ---
 
-### 🛠️ General Types of Bugs (Example Only)
+## 🛠️ General Types of Bugs (Example Only)
 
-| Bug Type |
-|----------|
-| UI glitches (misaligned text, broken layout) |
-| Function not triggering (e.g., button click not responding) |
-| Data mismatch or missing from views |
-| Crashes or freezes during key workflows |
-| Export issues (CSV, PDF, etc.) |
-| Localization errors (Arabic or English content) |
+| **Bug Type**                                             |
+|----------------------------------------------------------|
+| UI glitches (misaligned text, broken layout)             |
+| Function not triggering (e.g., button click not working) |
+| Data mismatch or missing from views                      |
+| Crashes or freezes during key workflows                  |
+| Export issues (CSV, PDF, etc.)                           |
+| Localization errors (Arabic or English content)          |
 
 📌 _Note: These are example bug types and may vary by module or release._
 
 ---
 
-### 🏷️ Redmine Ticket Types
+## 🏷️ Redmine Ticket Types
 
-| Type        | Used Currently? |
-|-------------|------------------|
-| Feature     | ✅ Yes |
-| Enhancement | ✅ Yes |
-| Defect      | ✅ Yes |
-| Support     | ❌ No  |
-| Estimate    | ❌ No  |
+| **Type**      | **Currently Used?** |
+|---------------|---------------------|
+| Feature       | ✅ Yes              |
+| Enhancement   | ✅ Yes              |
+| Defect        | ✅ Yes              |
+| Support       | ❌ No               |
+| Estimate      | ❌ No               |
