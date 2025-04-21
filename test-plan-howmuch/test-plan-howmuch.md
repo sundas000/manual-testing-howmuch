@@ -1,9 +1,9 @@
 # 🧪 Test Plan – Howmuch POS
 
 **Project:** Howmuch POS  
-**Version:** 1.0  
-**Last Updated:** April 21, 2025  
-**Author:** [Your Name]  
+**Version:** --.--.-- (new builds everyday) 
+**Last Updated:** MM DD, YYYY  
+**Author:** Sundas Shafi 
 **Role:** Software Test Engineer  
 
 ---
@@ -33,10 +33,12 @@ Official site: [https://www.howmuchpos.com](https://www.howmuchpos.com)
   - Electron Desktop App (Windows/macOS)
 - Arabic language support validation (where applicable)
 - Module-level validation (test cases maintained per feature)
+- Hardware-specific integration testing (e.g., POS printers, barcode scanners)
+  
 
 ### Out of Scope
 - Native mobile applications (Android/iOS) — to be covered in future phases
-- Hardware-specific integration testing (e.g., POS printers, barcode scanners)
+
 
 ---
 
@@ -45,9 +47,9 @@ Official site: [https://www.howmuchpos.com](https://www.howmuchpos.com)
 ### Test Types
 - Manual Testing (primary approach)
 - Functional & Regression Testing
+- API testing
 - Cross-platform Testing
 - UI/UX Consistency Testing
-- Localization Testing (Arabic UI validation)
 - Build Issue Validation and Fix Verification
 
 ### Testing Levels
@@ -92,7 +94,7 @@ Official site: [https://www.howmuchpos.com](https://www.howmuchpos.com)
 
 | Name         | Role                  | Responsibilities                                  |
 |--------------|-----------------------|---------------------------------------------------|
-| [Your Name]  | Software Test Engineer | Test planning, case writing, execution, bug tracking, and build validation |
+| Sundas Shafi  | Software Test Engineer | Test planning, case writing, execution, bug tracking, and build validation |
 
 ---
 
