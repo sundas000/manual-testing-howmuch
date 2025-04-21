@@ -1,4 +1,4 @@
-# Design Issue Report
+# 🎨 Design Issue Report
 
 | **Section**            | **Description** |
 |------------------------|-----------------|
@@ -46,4 +46,24 @@
 ## 🛠️ General Types of Bugs (Example Only)
 
 | **Design Issue Type**                             | **Typical Severity** |
-|------------------------------------------------
+|---------------------------------------------------|-----------------------|
+| Color or typography mismatch                      | Low / Medium          |
+| Element misalignment                              | Medium                |
+| Missing spacing or padding                        | Medium                |
+| Icons or images not loading                       | Medium / High         |
+| Visual inconsistencies across platforms           | High                  |
+| Non-responsive design issues                      | High / Critical       |
+
+📌 _Note: These are example design issues and may vary by module or release._
+
+---
+
+## 🏷️ Redmine Ticket Types
+
+| **Type**      | **Currently Used?** |
+|---------------|---------------------|
+| Feature       | ✅ Yes              |
+| Enhancement   | ✅ Yes              |
+| Defect        | ✅ Yes              |
+| Support       | ❌ No               |
+| Estimate      | ❌ No               |
