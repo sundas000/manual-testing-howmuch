@@ -1,0 +1,51 @@
+# 🐞 Bug Report – Electron
+
+## Title
+[Short descriptive title of the issue]
+
+## Module
+Electron Desktop App
+
+## Steps to Reproduce
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+...
+
+## Expected Behavior
+[What should happen]
+
+## Actual Behavior
+[What actually happens]
+
+## Severity
+- [ ] Low
+- [ ] Medium
+- [ ] High
+- [ ] Critical
+
+## Attachments
+- [Screenshots, logs, or screen recordings if available]
+
+---
+
+### 🛠️ General Types of Bugs (Example Only)
+- UI glitches (misaligned text, broken layout)
+- Function not triggering (e.g., button click not responding)
+- Data mismatch or missing from views
+- Crashes or freezes during key workflows
+- Export issues (CSV, PDF, etc.)
+- Localization errors (Arabic or English content)
+
+📌 _Note: These are example bug types and may vary by module or release._
+
+---
+
+**Redmine Ticket Types:**  
+- Feature  
+- Enhancement  
+- Defect  
+- Support  
+- Estimate  
+
+_Currently using: Feature, Enhancement, and Defect tickets only._
